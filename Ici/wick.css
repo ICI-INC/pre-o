@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+  overflow-y: hidden; /* Hide scrollbars */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+#clima{
+  margin-top: 2%;
+  margin-left: 300;
+}
+#contacao{
+  margin-top: 5%;
+}
+#relogio{
+  margin-top: -18%;
+}
+#page6{
+  margin-top: 10%;
+}
+#usdbrl{
+  margin-top: -95%;
+  margin-left: 450;
+}
